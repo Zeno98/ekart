@@ -1,0 +1,49 @@
+.happay-title{
+    color:rgb(0, 175, 245);
+}
+
+.content-heading{
+    margin-top: 5%;
+    text-align: center;
+}
+.cart{
+    margin-left: 75%;
+}
+.login{
+    margin-right:9%;
+}
+.card{
+    border-radius: 20px;
+}
+
+.card-img{
+    border-radius: 20px;
+}
+.card-text{
+    color: grey;
+}
+/* .circle{
+    background-color: lightgray;
+    color: grey;
+    border-radius: 33px;
+    position: relative;
+    left: 1%;
+
+} */
+.star{
+    color:skyblue;
+    border-radius: 50%;
+    padding: 5px 5px;
+    border-width: 1px;
+    border-color: lightgrey;
+    left: 2%;
+    top:200px;
+}
+.line{
+    color:skyblue;
+}
+.star-line{
+    margin-left: 35%;
+    text-align: center;
+    width: 25%;
+}
